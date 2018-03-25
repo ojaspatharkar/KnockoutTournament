@@ -1,0 +1,46 @@
+
+.container{
+  background-image: url('stadium.jpg');
+  background-size: 2000px 2000px;
+  width : 2000px;
+}
+
+table tr td{
+  padding : 0px;
+  margin : 0px;
+
+}
+table{
+  border-spacing : 0px;
+}
+
+.title{
+  text-align : center;
+  font-family : cursive;
+  color : green;
+}
+
+.team{
+  margin: 0px;
+  text-align: center;
+}
+
+.winner{
+  background-color :#7cf17c9c;
+  border : 1px solid grey;
+  border-radius : 5px;
+  width : 220px;
+  font-size: 18px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.runnerUp{
+  background-color :#f44336a3;
+  border : 1px solid grey;
+  border-radius : 5px;
+  width : 220px;
+  font-size: 18px;
+  text-align: center;
+  vertical-align: middle;
+}
